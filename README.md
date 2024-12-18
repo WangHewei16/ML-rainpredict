@@ -1,10 +1,13 @@
 # Data-driven Hybrid Machine Learning and Neural Network Approach for Predicting Rainfall Patterns with Feature Engineering
 
 
-## Code Organization
+## Environment Requirement
 All codes are written in `python`. 
 
-### Code 
+## Dataset
+public datasets 
+
+## Code Organization
 The script to reproduce all the figures, and tables in the paper is as follows:
 - `Feature.ipynb`: data processing and feature engineering
 - `PCA.ipynb`: PCA analysis
