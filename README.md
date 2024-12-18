@@ -5,7 +5,7 @@
 All codes are written in `python`. 
 
 ## Dataset
-public datasets `weatherAUS.csv`
+`weatherAUS.csv`: public rain condition dataset containing 10 years of daily weather observations measured in numerous weather stations.
 
 ## Code Organization
 The script to reproduce all the figures, and tables in the paper is as follows:
